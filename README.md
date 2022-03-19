@@ -8,7 +8,7 @@ I am an undergraduate student in Computer Sciences and Engineering at the Univer
 - Git/GitHub
 - HTML
 
-## Ways to reach me 
+### Ways to reach me 
 - sofia.barrera@upr.edu
 - [LinkedIn](https://www.linkedin.com/in/smbv/)
     
