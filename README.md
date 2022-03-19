@@ -1,16 +1,17 @@
-### Hi there 👋
+## Sofía M. Barrera Vega (They/She/He)
+### Software Engineering Student 
+I am an undergraduate student in Computer Sciences and Engineering at the University of Puerto Rico, Mayagüez Campus. Currently learning C++ and Git/GitHub. Interested in cyber-security, video games, and applications design. My objective is to obtain a program/internship/research that provides development opportunities in Software Engineering and any other related fields.
 
-<!--
-**smbv/smbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills and Experience
+- Python
+- C++
+- Git/GitHub
+- HTML
 
-Here are some ideas to get you started:
+## Ways to reach me 
+- sofia.barrera@upr.edu
+- [LinkedIn](https://www.linkedin.com/in/smbv/)
+    
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smbv&theme=tokyonight )](https://github.com/smbv/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
