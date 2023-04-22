@@ -4,9 +4,9 @@ I am an undergraduate student in Computer Sciences and Engineering at the Univer
 
 ### Skills and Experience
 - Python
-- C++
+- C/C++
 - Git/GitHub
-- HTML
+- HTML/CSS/JavaScript
 - Visual Studio
 
 ### Ways to reach me 
