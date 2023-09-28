@@ -5,9 +5,11 @@ I am an undergraduate student in Computer Sciences and Engineering at the Univer
 ### Skills and Experience
 - Python
 - C/C++
+- Java
 - Git/GitHub
 - HTML/CSS/JavaScript
 - Visual Studio
+- Eclipse
 
 ### Ways to reach me 
 - sofia.barrera@upr.edu
