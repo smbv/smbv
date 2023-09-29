@@ -18,7 +18,7 @@ Hello, world! I'm Sofía M. Barrera Vega, a passionate and creative Computer Sci
   - Developed an application to enhance cost management strategies by enabling automatic cost comparison and savings tracking.
   - Delivered a tracking visualization tool that facilitated significant cost savings for the organization.
 
-## Projects
+### Projects
 
 Here are a few projects I'm proud of:
 
