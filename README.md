@@ -14,7 +14,7 @@ Hello, world! I'm Sofia M. Barrera Vega, a passionate and creative Computer Scie
 
 ### 💼 Work Experience
 
-- ** Cloud Systems Software Engineer Intern at Deloitte ** (Jun - Aug 2023)
+- **Cloud Systems Software Engineer Intern at Deloitte** (Jun - Aug 2023)
   - Developed an application to enhance cost management strategies by enabling automatic cost comparison and savings tracking
   - Delivered a tracking visualization tool that facilitated significant cost savings for the organization
  
@@ -24,7 +24,6 @@ Here are a few projects I'm proud of:
 
 1. [Project-Adventure-Time](https://github.com/smbv/Project-Adventure-Time.git)
    - Text-based adventure game that takes you on a humorous journey through various scenarios and challenges. Solve puzzles, make choices, and interact with a unique cast of characters in a world filled with surprises.
-
 
 ### 🔧 Technologies & Tools
 
