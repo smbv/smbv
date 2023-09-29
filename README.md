@@ -1,23 +1,23 @@
-<h1 align="center">Hi, I'm Sofia M. Barrera Vega 👋</h1>
+<h1 align="center">Hi, I'm Sofía M. Barrera Vega </h1>
 <p align="center"></p>
 
 <p align="center">
-  <a href="[linkedin.com/in/smbv]">LinkedIn</a> •
-  <a href="mailto:[sofia.barrera@upr.edu]">Email</a>
+  <a href="https://www.linkedin.com/in/smbv">LinkedIn</a>
+  <a href="mailto:sofia.barrera@upr.edu">Email</a>
 </p>
 
 ---
 
 ## About Me
 
-Hello, world! I'm Sofia M. Barrera Vega, a passionate and creative Computer Sciences and Engineering student at the University of Puerto Rico, Mayagüez Campus. I love to explore and innovate in the world of technology. I'm always excited to learn new things, solve challenging problems, and build exciting projects. I am interested in UI/UX design, front-end development, cyber security, video games, and application design. 
+Hello, world! I'm Sofía M. Barrera Vega, a passionate and creative Computer Sciences and Engineering student at the University of Puerto Rico, Mayagüez Campus. I love to explore and innovate in the world of technology. I'm always excited to learn new things, solve challenging problems, and build exciting projects. I am interested in UI/UX design, front-end development, cybersecurity, video games, and application design.
 
 ### 💼 Work Experience
 
 - **Cloud Systems Software Engineer Intern at Deloitte** (Jun - Aug 2023)
-  - Developed an application to enhance cost management strategies by enabling automatic cost comparison and savings tracking
-  - Delivered a tracking visualization tool that facilitated significant cost savings for the organization
- 
+  - Developed an application to enhance cost management strategies by enabling automatic cost comparison and savings tracking.
+  - Delivered a tracking visualization tool that facilitated significant cost savings for the organization.
+
 ## Projects
 
 Here are a few projects I'm proud of:
@@ -28,7 +28,7 @@ Here are a few projects I'm proud of:
 ### 🔧 Technologies & Tools
 
 I work with various technologies and tools, including but not limited to:
-- **Languages**: Python | Java | C/C++ | HTML | CSS | JavaScript 
+- **Languages**: Python | Java | C/C++ | HTML | CSS | JavaScript
 - **IDEs**: Visual Studio | Eclipse
 - **Operating Systems**: Linux | MacOS | Windows
 - **Frameworks**: openFrameworks
@@ -52,14 +52,15 @@ I work with various technologies and tools, including but not limited to:
 ## 🌱 Interests
 
 In addition to coding, I have a keen interest in:
--  traditional/digital art
--  puzzles and legos
--  horse riding
+- Traditional/digital art
+- Puzzles and Legos
+- Horse riding
 
 ## Let's Connect
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at sofia.barrera@upr.edu or connect with me on [LinkedIn](linkedin.com/in/smbv).
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at sofia.barrera@upr.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/smbv).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smbv&theme=tokyonight)](https://github.com/smbv/github-readme-stats)
+
 
 
