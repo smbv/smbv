@@ -2,7 +2,7 @@
 <p align="center"></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/smbv">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/smbv">LinkedIn</a> |
   <a href="mailto:sofia.barrera@upr.edu">Email</a>
 </p>
 
