@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sofía M. Barrera Vega </h1>
+<h1 align="center">Sofía M. Barrera Vega </h1>
 <p align="center"></p>
 
 <p align="center">
